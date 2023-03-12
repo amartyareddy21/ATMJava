@@ -39,6 +39,8 @@ public class Account {
 	
 	public double getSavingBalance() 
 	{
+		int a = 10 ;
+		System.out.println(a);
 		return savingBalance;
 	}
 	
